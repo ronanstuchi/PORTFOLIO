@@ -1,50 +1,53 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
 
-## Resume Starter Pack Description
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses. If you need to use this portfolio for your own personal website then follow the steps below:
+<br />
 
-## 1. Initial Setup Procedures
+hi, i'm [Ronan Stuchi](https://abhishknads.me/), a passionate Front-End web developer, my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-## 2. Building a Create-React-App
 
-Next, you will build the application using Create-React-App. Go <a href="https://reactjs.org/docs/installation.html">HERE</a> to get started. (A video demonstration of this step can be found in our Zero to Full Stack Hero module)
-Once the build procedure is finished run the command `cd yourappname` and then `npm start` to confirm the app works
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💼 any fquestion? do reach, [email](mailto:ronanstuchi@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
 
-## 3. Download the template
+**languages and tools:**  
 
-Once the steps above have been followed successfully, download the code above using the green button.
-IMPORTANT: You will have to replace the "public" and "src" folders of your newly built app with the downloaded code. Run the command `npm start` after and you should see a similar render like the LIVE DEMO link above. If it is not the same then go back to Step 1 and try again.
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## 4. Fill in your personal info
 
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
 
-## 5. (OPTIONAL) Replacing images and/or fonts
 
-If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED UNDER ANY CIRCUMSTANCES.
 
-## 7. Finalising Resume
 
-Once all the formatting and data input is finalised, run the command `npm start` and you'll see your resume on local host.
-Run the command `npm run init` to set up a new or existing npm package. Then run `npm install` and then finally run `npm run build`. This will create a dedicated build folder.
 
-## 8. Host Resume Online
 
-1) Upload all the Resume related files to your Github Profile
-2) Go to <a href="https://www.heroku.com">Heroku</a> and set up your profile
-3) Create a New App
-4) Choose Github as a Deployment Method
-5) Select the correct resume repository that you uploaded in Step 1
 
-## Credits
 
-##### Original Idea
 
-<a href="https://github.com/tbakerx/react-resume-template/blob/master/README.md">Inspiration from Tim Baker (tbakerx)</a>
+
+
+
+
